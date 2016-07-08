@@ -1,2 +1,3 @@
-For the hord of people that saked me for my dotfiles.
-take them thay are yours :^)
+#For the hord of people that saked me for my dotfiles.
+
+Take them thay are yours :^)
